@@ -6,7 +6,6 @@ source("utils/init_caret.R")
 source("libs/accuracy.R")
 
 
-
 x <- heights$sex
 y <- heights$height
 
