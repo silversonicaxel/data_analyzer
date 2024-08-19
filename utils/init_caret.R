@@ -3,3 +3,4 @@ if (!requireNamespace("caret", quietly = TRUE)) {
 }
 
 library(caret)
+data(iris)
