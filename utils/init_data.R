@@ -5,3 +5,4 @@ if (!requireNamespace("dslabs", quietly = TRUE)) {
 library(dslabs)
 
 data(heights)
+data(reported_heights)

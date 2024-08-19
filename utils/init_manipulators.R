@@ -3,3 +3,10 @@ if (!requireNamespace("tidyverse", quietly = TRUE)) {
 }
 
 library(tidyverse)
+
+
+if (!requireNamespace("dplyr", quietly = TRUE)) {
+  install.packages("dplyr")
+}
+
+library(dplyr)
